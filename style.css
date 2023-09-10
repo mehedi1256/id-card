@@ -1,0 +1,58 @@
+#main {
+    border: 3px solid #333290;
+    width: 5.4cm;
+    height: 8.6cm;
+    border-radius: 15px;
+}
+
+#main_img{
+    width: 4.8cm;
+}
+
+#main_pic_body {
+    width: 3cm;
+    height: 3.5cm;
+    border: 1px solid black;
+}
+
+.logo_info {
+    margin-top: 5px;
+    margin-bottom: 8px;
+}
+
+.div_cnt {
+    text-align: center;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.div_cnt h2,h5 {
+    margin: 0;
+}
+
+
+#main2 {
+    width: 5.4cm;
+    height: 8.6cm;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+
+#div2_content{
+    margin-top: 50px;
+    margin-bottom: 80px;
+    text-decoration: none;
+    text-align: center;
+    list-style-type: none;
+}
+
+#div2_content h5 {
+    -moz-transform: scale(-1, -1);
+    -webkit-transform: scale(-1, -1);
+    -o-transform: scale(-1, -1);
+    -ms-transform: scale(-1, -1);
+    transform: scale(-1, -1);
+}
